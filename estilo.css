@@ -20,6 +20,8 @@ a{
 }
 
 #principal{ /*Id sendo usada como um container com para definir um tamanho padrão em toda a estrutura.*/
+    display: table;
+    margin: auto; /* Alinhar conteúdo no meio*/
     width: 900px;
 }
 
